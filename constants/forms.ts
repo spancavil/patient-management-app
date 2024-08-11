@@ -1,0 +1,2 @@
+export const MAX_LENGTH_DESCRIPTION = 900
+export const MIN_LENGTH_DESCRIPTION = 50
